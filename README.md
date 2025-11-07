@@ -26,3 +26,5 @@ The goal is to:
 
 ## Database Schema
 
+<img width="1098" height="615" alt="Screenshot 2025-11-07 183217" src="https://github.com/user-attachments/assets/304736d7-105e-4f04-a8c0-d6eec988205f" />
+
